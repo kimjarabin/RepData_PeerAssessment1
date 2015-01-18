@@ -10,7 +10,7 @@
     <meta http-equiv="Content-Language" content="en">
     
     
-    <title>coursera-repdata/PA1_template.Rmd at master · sefakilic/coursera-repdata</title>
+    <title>coursera-repdata/PA1_template.md at master · sefakilic/coursera-repdata</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -34,7 +34,7 @@
     <meta name="selected-link" value="repo_source" data-pjax-transient>
       <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="47EF166F:2D7B:D570C88:54BC163B" name="octolytics-dimension-request_id" /><meta content="9561688" name="octolytics-actor-id" /><meta content="kimjarabin" name="octolytics-actor-login" /><meta content="6698e417827477a1ad156f8ea53a00617063fa5693682a705a8198b97e8c9485" name="octolytics-actor-hash" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="47EF166F:2D7B:D571980:54BC1643" name="octolytics-dimension-request_id" /><meta content="9561688" name="octolytics-actor-id" /><meta content="kimjarabin" name="octolytics-actor-login" /><meta content="6698e417827477a1ad156f8ea53a00617063fa5693682a705a8198b97e8c9485" name="octolytics-actor-hash" />
     
     <meta content="Rails, view, blob#show" name="analytics-event" />
 
@@ -44,7 +44,7 @@
 
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="ZUT8bPNsEVI1/rPr48nli3ZfNuhqWY2aKaK7JUcqnlwPBBMviK6yjdXs5SD4pj0moe9cDUU9HkVgMEsfplcxPA==" name="csrf-token" />
+<meta content="zIvhFMyTNTXrD6XJ4Luls9B/g2tG9ssTjhK1HWuNDt1byv2XPPhYYEI+1HEY/IGmy+5Xrrl7WS7ai1WTvKcTsg==" name="csrf-token" />
 
     <link href="https://assets-cdn.github.com/assets/github-7260055e0c41349b130992d6233e9ff4ea6a1cf3a4df3560583e3e9aeefa7d05.css" media="all" rel="stylesheet" type="text/css" />
     <link href="https://assets-cdn.github.com/assets/github2-e7924c378dad46ea63ea0dde73420a00d3d5ec266553156300933053ebebdfd3.css" media="all" rel="stylesheet" type="text/css" />
@@ -157,7 +157,7 @@
   </li>
 
   <li class="header-nav-item">
-    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="5uXX1cIfWZ5R5ShDDjslwgJYZzLOEuUQAgC6ntNrzvwOx6TZTqDJo804aTtuHyJPkrQvXQ3+0LSneT3V/Ne8gQ==" /></div>
+    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="09vnS1V8y76/faSbeFJjzfQPVEg4RVT/6QflIFAeCZVhlN7OZ8cEmNeL8iMi7DUQbSs9Ymo3KL0oV0xXgppKFA==" /></div>
       <button class="header-nav-link sign-out-button tooltipped tooltipped-s" aria-label="Sign out" data-ga-click="Header, sign out, icon:logout">
         <span class="octicon octicon-sign-out"></span>
       </button>
@@ -186,7 +186,7 @@
 <ul class="pagehead-actions">
 
     <li class="subscription">
-      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="oa4LpYV2ZOIW2j6SAbO/dJt+PnRz2g0zRJVzRCrkoeCPRGnSpREZ1W8ZGnjrmg6PdVgV++STtAv4t4794Mndjg==" /></div>  <input id="repository_id" name="repository_id" type="hidden" value="19899531" />
+      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="kEDdJMVxczjcuH6wMgfz8gW3kCDxQhX5ha5YOk+h40m+a0kdcUILR6aBenYqStcQr1//N1XIp64IWPxVDy91cg==" /></div>  <input id="repository_id" name="repository_id" type="hidden" value="19899531" />
 
     <div class="select-menu js-menu-container js-select-menu">
       <a class="social-count js-social-count" href="/sefakilic/coursera-repdata/watchers">
@@ -261,7 +261,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <form accept-charset="UTF-8" action="/sefakilic/coursera-repdata/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="2FcYXa/fnAYuSQ4XTaDo1F+u36tll+QJ52SGDBsxak8Xjjqwz3QOMInIhD1HjIISyEIMbenNqOOAdzRUOPUaRg==" /></div>
+    <form accept-charset="UTF-8" action="/sefakilic/coursera-repdata/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+bqxQw+zDYbeyY51+p8PVcA6tm7UWBGZB/PUIpjKdGwMnEbulIRwODi9502TiDxCzl9FSHey0b3huMYOl15y8A==" /></div>
       <button
         class="minibutton with-count js-toggler-target star-button"
         aria-label="Unstar this repository" title="Unstar sefakilic/coursera-repdata">
@@ -272,7 +272,7 @@
           0
         </a>
 </form>
-    <form accept-charset="UTF-8" action="/sefakilic/coursera-repdata/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="N8eHaQrv+kss2Huq4P3ZsNRa4fmoStvx1lRz6ukGdZkpgiIBDenqOmbCu+Rn0Z1Ta9d78cDioyffKZQO4uaUGQ==" /></div>
+    <form accept-charset="UTF-8" action="/sefakilic/coursera-repdata/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="7AF8eu/7Jj3PL+QL2dOPeeIvCAcQGL9UD+Z9KCGKxV7wP9gvPkmUzj9bmZ5pVzZpaTCeaElyHRAhyUQ86KohGg==" /></div>
       <button
         class="minibutton with-count js-toggler-target star-button"
         aria-label="Star this repository" title="Star sefakilic/coursera-repdata">
@@ -436,9 +436,9 @@
         <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
           
 
-<a href="/sefakilic/coursera-repdata/blob/887120ed7a37211dd2d2bdc05dbe0e81e0e1ae7d/project1/PA1_template.Rmd" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/sefakilic/coursera-repdata/blob/887120ed7a37211dd2d2bdc05dbe0e81e0e1ae7d/project1/PA1_template.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:7341bf4f69f0865200648e9a23d6fbc0 -->
+<!-- blob contrib key: blob_contributors:v21:8ebe111b683764384a2ebb13df2206cf -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -484,7 +484,7 @@
 
             <div class="select-menu-item js-navigation-item selected">
               <span class="select-menu-item-icon octicon octicon-check"></span>
-              <a href="/sefakilic/coursera-repdata/blob/master/project1/PA1_template.Rmd"
+              <a href="/sefakilic/coursera-repdata/blob/master/project1/PA1_template.md"
                  data-name="master"
                  data-skip-pjax="true"
                  rel="nofollow"
@@ -521,7 +521,7 @@
   </div>
 
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/sefakilic/coursera-repdata" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">coursera-repdata</span></a></span></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/sefakilic/coursera-repdata/tree/master/project1" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">project1</span></a></span><span class="separator">/</span><strong class="final-path">PA1_template.Rmd</strong>
+    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/sefakilic/coursera-repdata" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">coursera-repdata</span></a></span></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/sefakilic/coursera-repdata/tree/master/project1" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">project1</span></a></span><span class="separator">/</span><strong class="final-path">PA1_template.md</strong>
   </div>
 </div>
 
@@ -560,29 +560,29 @@
   <div class="file">
     <div class="meta clearfix">
       <div class="info file-name">
-          <span>102 lines (87 sloc)</span>
+          <span>160 lines (113 sloc)</span>
           <span class="meta-divider"></span>
-        <span>3.45 kb</span>
+        <span>3.904 kb</span>
       </div>
       <div class="actions">
         <div class="button-group">
-          <a href="/sefakilic/coursera-repdata/raw/master/project1/PA1_template.Rmd" class="minibutton " id="raw-url">Raw</a>
-            <a href="/sefakilic/coursera-repdata/blame/master/project1/PA1_template.Rmd" class="minibutton js-update-url-with-hash">Blame</a>
-          <a href="/sefakilic/coursera-repdata/commits/master/project1/PA1_template.Rmd" class="minibutton " rel="nofollow">History</a>
+          <a href="/sefakilic/coursera-repdata/raw/master/project1/PA1_template.md" class="minibutton " id="raw-url">Raw</a>
+            <a href="/sefakilic/coursera-repdata/blame/master/project1/PA1_template.md" class="minibutton js-update-url-with-hash">Blame</a>
+          <a href="/sefakilic/coursera-repdata/commits/master/project1/PA1_template.md" class="minibutton " rel="nofollow">History</a>
         </div><!-- /.button-group -->
 
           <a class="octicon-button tooltipped tooltipped-nw"
-             href="github-windows://openRepo/https://github.com/sefakilic/coursera-repdata?branch=master&amp;filepath=project1%2FPA1_template.Rmd" aria-label="Open this file in GitHub for Windows">
+             href="github-windows://openRepo/https://github.com/sefakilic/coursera-repdata?branch=master&amp;filepath=project1%2FPA1_template.md" aria-label="Open this file in GitHub for Windows">
               <span class="octicon octicon-device-desktop"></span>
           </a>
 
               <a class="octicon-button tooltipped tooltipped-n js-update-url-with-hash"
                  aria-label="Clicking this button will fork this project so you can edit the file"
-                 href="/sefakilic/coursera-repdata/edit/master/project1/PA1_template.Rmd"
+                 href="/sefakilic/coursera-repdata/edit/master/project1/PA1_template.md"
                  data-method="post" rel="nofollow"><span class="octicon octicon-pencil"></span></a>
 
             <a class="octicon-button danger tooltipped tooltipped-s"
-               href="/sefakilic/coursera-repdata/delete/master/project1/PA1_template.Rmd"
+               href="/sefakilic/coursera-repdata/delete/master/project1/PA1_template.md"
                aria-label="Fork this project and delete file"
                data-method="post" data-test-id="delete-blob-file" rel="nofollow">
           <span class="octicon octicon-trashcan"></span>
@@ -597,33 +597,47 @@
 <h2>
 <a id="user-content-loading-and-preprocessing-the-data" class="anchor" href="#loading-and-preprocessing-the-data" aria-hidden="true"><span class="octicon octicon-link"></span></a>Loading and preprocessing the data</h2>
 
-<div class="highlight highlight-r"><pre>unzip(<span class="pl-v">zipfile</span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">"</span>activity.zip<span class="pl-pds">"</span></span>)
+<div class="highlight highlight-r"><pre>unzip(<span class="pl-v">zipfile</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>activity.zip<span class="pl-pds">"</span></span>)
 <span class="pl-vo">data</span> <span class="pl-k">&lt;-</span> read.csv(<span class="pl-s1"><span class="pl-pds">"</span>activity.csv<span class="pl-pds">"</span></span>)</pre></div>
 
 <h2>
 <a id="user-content-what-is-mean-total-number-of-steps-taken-per-day" class="anchor" href="#what-is-mean-total-number-of-steps-taken-per-day" aria-hidden="true"><span class="octicon octicon-link"></span></a>What is mean total number of steps taken per day?</h2>
 
 <div class="highlight highlight-r"><pre>library(<span class="pl-vo">ggplot2</span>)
-<span class="pl-vo">total.steps</span> <span class="pl-k">&lt;-</span> tapply(<span class="pl-vo">data</span><span class="pl-k">$</span><span class="pl-vo">steps</span>, <span class="pl-vo">data</span><span class="pl-k">$</span><span class="pl-vo">date</span>, <span class="pl-v">FUN</span><span class="pl-k">=</span><span class="pl-vo">sum</span>, <span class="pl-v">na.rm</span><span class="pl-k">=</span><span class="pl-c1">TRUE</span>)
-qplot(<span class="pl-vo">total.steps</span>, <span class="pl-v">binwidth</span><span class="pl-k">=</span><span class="pl-c1">1000</span>, <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">"</span>total number of steps taken each day<span class="pl-pds">"</span></span>)
-mean(<span class="pl-vo">total.steps</span>, <span class="pl-v">na.rm</span><span class="pl-k">=</span><span class="pl-c1">TRUE</span>)
-median(<span class="pl-vo">total.steps</span>, <span class="pl-v">na.rm</span><span class="pl-k">=</span><span class="pl-c1">TRUE</span>)</pre></div>
+<span class="pl-vo">total.steps</span> <span class="pl-k">&lt;-</span> tapply(<span class="pl-vo">data</span><span class="pl-k">$</span><span class="pl-vo">steps</span>, <span class="pl-vo">data</span><span class="pl-k">$</span><span class="pl-vo">date</span>, <span class="pl-v">FUN</span> <span class="pl-k">=</span> <span class="pl-vo">sum</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)
+qplot(<span class="pl-vo">total.steps</span>, <span class="pl-v">binwidth</span> <span class="pl-k">=</span> <span class="pl-c1">1000</span>, <span class="pl-v">xlab</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>total number of steps taken each day<span class="pl-pds">"</span></span>)</pre></div>
+
+<p><a href="/sefakilic/coursera-repdata/blob/master/project1/figure/unnamed-chunk-1.png" target="_blank"><img src="/sefakilic/coursera-repdata/raw/master/project1/figure/unnamed-chunk-1.png" alt="plot of chunk unnamed-chunk-1" style="max-width:100%;"></a> </p>
+
+<div class="highlight highlight-r"><pre>mean(<span class="pl-vo">total.steps</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)</pre></div>
+
+<pre><code>## [1] 9354
+</code></pre>
+
+<div class="highlight highlight-r"><pre>median(<span class="pl-vo">total.steps</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)</pre></div>
+
+<pre><code>## [1] 10395
+</code></pre>
 
 <h2>
 <a id="user-content-what-is-the-average-daily-activity-pattern" class="anchor" href="#what-is-the-average-daily-activity-pattern" aria-hidden="true"><span class="octicon octicon-link"></span></a>What is the average daily activity pattern?</h2>
 
 <div class="highlight highlight-r"><pre>library(<span class="pl-vo">ggplot2</span>)
-<span class="pl-vo">averages</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-v">x</span><span class="pl-k">=</span><span class="pl-st">list</span>(<span class="pl-v">steps</span><span class="pl-k">=</span><span class="pl-vo">data</span><span class="pl-k">$</span><span class="pl-vo">steps</span>), <span class="pl-v">by</span><span class="pl-k">=</span><span class="pl-st">list</span>(<span class="pl-v">interval</span><span class="pl-k">=</span><span class="pl-vo">data</span><span class="pl-k">$</span><span class="pl-vo">interval</span>),
-                      <span class="pl-v">FUN</span><span class="pl-k">=</span><span class="pl-vo">mean</span>, <span class="pl-v">na.rm</span><span class="pl-k">=</span><span class="pl-c1">TRUE</span>)
-ggplot(<span class="pl-v">data</span><span class="pl-k">=</span><span class="pl-vo">averages</span>, aes(<span class="pl-v">x</span><span class="pl-k">=</span><span class="pl-vo">interval</span>, <span class="pl-v">y</span><span class="pl-k">=</span><span class="pl-vo">steps</span>)) <span class="pl-k">+</span>
-    geom_line() <span class="pl-k">+</span>
-    xlab(<span class="pl-s1"><span class="pl-pds">"</span>5-minute interval<span class="pl-pds">"</span></span>) <span class="pl-k">+</span>
+<span class="pl-vo">averages</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-v">x</span> <span class="pl-k">=</span> <span class="pl-st">list</span>(<span class="pl-v">steps</span> <span class="pl-k">=</span> <span class="pl-vo">data</span><span class="pl-k">$</span><span class="pl-vo">steps</span>), <span class="pl-v">by</span> <span class="pl-k">=</span> <span class="pl-st">list</span>(<span class="pl-v">interval</span> <span class="pl-k">=</span> <span class="pl-vo">data</span><span class="pl-k">$</span><span class="pl-vo">interval</span>), 
+    <span class="pl-v">FUN</span> <span class="pl-k">=</span> <span class="pl-vo">mean</span>, <span class="pl-v">na.rm</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)
+ggplot(<span class="pl-v">data</span> <span class="pl-k">=</span> <span class="pl-vo">averages</span>, aes(<span class="pl-v">x</span> <span class="pl-k">=</span> <span class="pl-vo">interval</span>, <span class="pl-v">y</span> <span class="pl-k">=</span> <span class="pl-vo">steps</span>)) <span class="pl-k">+</span> geom_line() <span class="pl-k">+</span> xlab(<span class="pl-s1"><span class="pl-pds">"</span>5-minute interval<span class="pl-pds">"</span></span>) <span class="pl-k">+</span> 
     ylab(<span class="pl-s1"><span class="pl-pds">"</span>average number of steps taken<span class="pl-pds">"</span></span>)</pre></div>
+
+<p><a href="/sefakilic/coursera-repdata/blob/master/project1/figure/unnamed-chunk-2.png" target="_blank"><img src="/sefakilic/coursera-repdata/raw/master/project1/figure/unnamed-chunk-2.png" alt="plot of chunk unnamed-chunk-2" style="max-width:100%;"></a> </p>
 
 <p>On average across all the days in the dataset, the 5-minute interval contains
 the maximum number of steps?</p>
 
-<div class="highlight highlight-r"><pre><span class="pl-vo">averages</span>[which.max(<span class="pl-vo">averages</span><span class="pl-k">$</span><span class="pl-vo">steps</span>),]</pre></div>
+<div class="highlight highlight-r"><pre><span class="pl-vo">averages</span>[which.max(<span class="pl-vo">averages</span><span class="pl-k">$</span><span class="pl-vo">steps</span>), ]</pre></div>
+
+<pre><code>##     interval steps
+## 104      835 206.2
+</code></pre>
 
 <h2>
 <a id="user-content-imputing-missing-values" class="anchor" href="#imputing-missing-values" aria-hidden="true"><span class="octicon octicon-link"></span></a>Imputing missing values</h2>
@@ -634,16 +648,19 @@ the maximum number of steps?</p>
 <span class="pl-c"># How many missing</span>
 table(<span class="pl-vo">missing</span>)</pre></div>
 
+<pre><code>## missing
+## FALSE  TRUE 
+## 15264  2304
+</code></pre>
+
 <p>All of the missing values are filled in with mean value for that 5-minute
 interval.</p>
 
 <div class="highlight highlight-r"><pre><span class="pl-c"># Replace each missing value with the mean value of its 5-minute interval</span>
 <span class="pl-en">fill.value</span> <span class="pl-k">&lt;-</span> <span class="pl-k">function</span>(<span class="pl-vo">steps</span>, <span class="pl-vo">interval</span>) {
     <span class="pl-vo">filled</span> <span class="pl-k">&lt;-</span> <span class="pl-c1">NA</span>
-    <span class="pl-k">if</span> (<span class="pl-k">!</span>is.na(<span class="pl-vo">steps</span>))
-        <span class="pl-vo">filled</span> <span class="pl-k">&lt;-</span> c(<span class="pl-vo">steps</span>)
-    <span class="pl-k">else</span>
-        <span class="pl-vo">filled</span> <span class="pl-k">&lt;-</span> (<span class="pl-vo">averages</span>[<span class="pl-vo">averages</span><span class="pl-k">$</span><span class="pl-vo">interval</span><span class="pl-k">==</span><span class="pl-vo">interval</span>, <span class="pl-s1"><span class="pl-pds">"</span>steps<span class="pl-pds">"</span></span>])
+    <span class="pl-k">if</span> (<span class="pl-k">!</span>is.na(<span class="pl-vo">steps</span>)) 
+        <span class="pl-vo">filled</span> <span class="pl-k">&lt;-</span> c(<span class="pl-vo">steps</span>) <span class="pl-k">else</span> <span class="pl-vo">filled</span> <span class="pl-k">&lt;-</span> (<span class="pl-vo">averages</span>[<span class="pl-vo">averages</span><span class="pl-k">$</span><span class="pl-vo">interval</span> <span class="pl-k">==</span> <span class="pl-vo">interval</span>, <span class="pl-s1"><span class="pl-pds">"</span>steps<span class="pl-pds">"</span></span>])
     <span class="pl-k">return</span>(<span class="pl-vo">filled</span>)
 }
 <span class="pl-vo">filled.data</span> <span class="pl-k">&lt;-</span> <span class="pl-vo">data</span>
@@ -651,10 +668,20 @@ interval.</p>
 
 <p>Now, using the filled data set, let's make a histogram of the total number of steps taken each day and calculate the mean and median total number of steps.</p>
 
-<div class="highlight highlight-r"><pre><span class="pl-vo">total.steps</span> <span class="pl-k">&lt;-</span> tapply(<span class="pl-vo">filled.data</span><span class="pl-k">$</span><span class="pl-vo">steps</span>, <span class="pl-vo">filled.data</span><span class="pl-k">$</span><span class="pl-vo">date</span>, <span class="pl-v">FUN</span><span class="pl-k">=</span><span class="pl-vo">sum</span>)
-qplot(<span class="pl-vo">total.steps</span>, <span class="pl-v">binwidth</span><span class="pl-k">=</span><span class="pl-c1">1000</span>, <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s1"><span class="pl-pds">"</span>total number of steps taken each day<span class="pl-pds">"</span></span>)
-mean(<span class="pl-vo">total.steps</span>)
-median(<span class="pl-vo">total.steps</span>)</pre></div>
+<div class="highlight highlight-r"><pre><span class="pl-vo">total.steps</span> <span class="pl-k">&lt;-</span> tapply(<span class="pl-vo">filled.data</span><span class="pl-k">$</span><span class="pl-vo">steps</span>, <span class="pl-vo">filled.data</span><span class="pl-k">$</span><span class="pl-vo">date</span>, <span class="pl-v">FUN</span> <span class="pl-k">=</span> <span class="pl-vo">sum</span>)
+qplot(<span class="pl-vo">total.steps</span>, <span class="pl-v">binwidth</span> <span class="pl-k">=</span> <span class="pl-c1">1000</span>, <span class="pl-v">xlab</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">"</span>total number of steps taken each day<span class="pl-pds">"</span></span>)</pre></div>
+
+<p><a href="/sefakilic/coursera-repdata/blob/master/project1/figure/unnamed-chunk-5.png" target="_blank"><img src="/sefakilic/coursera-repdata/raw/master/project1/figure/unnamed-chunk-5.png" alt="plot of chunk unnamed-chunk-5" style="max-width:100%;"></a> </p>
+
+<div class="highlight highlight-r"><pre>mean(<span class="pl-vo">total.steps</span>)</pre></div>
+
+<pre><code>## [1] 10766
+</code></pre>
+
+<div class="highlight highlight-r"><pre>median(<span class="pl-vo">total.steps</span>)</pre></div>
+
+<pre><code>## [1] 10766
+</code></pre>
 
 <p>Mean and median values are higher after imputing missing data. The reason is
 that in the original data, there are some days with <code>steps</code> values <code>NA</code> for 
@@ -671,22 +698,21 @@ this part, we use the dataset with the filled-in values.</p>
 
 <div class="highlight highlight-r"><pre><span class="pl-en">weekday.or.weekend</span> <span class="pl-k">&lt;-</span> <span class="pl-k">function</span>(<span class="pl-vo">date</span>) {
     <span class="pl-vo">day</span> <span class="pl-k">&lt;-</span> weekdays(<span class="pl-vo">date</span>)
-    <span class="pl-k">if</span> (<span class="pl-vo">day</span> <span class="pl-k">%in%</span> c(<span class="pl-s1"><span class="pl-pds">"</span>Monday<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>Tuesday<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>Wednesday<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>Thursday<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>Friday<span class="pl-pds">"</span></span>))
-        <span class="pl-k">return</span>(<span class="pl-s1"><span class="pl-pds">"</span>weekday<span class="pl-pds">"</span></span>)
-    <span class="pl-k">else</span> <span class="pl-k">if</span> (<span class="pl-vo">day</span> <span class="pl-k">%in%</span> c(<span class="pl-s1"><span class="pl-pds">"</span>Saturday<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>Sunday<span class="pl-pds">"</span></span>))
-        <span class="pl-k">return</span>(<span class="pl-s1"><span class="pl-pds">"</span>weekend<span class="pl-pds">"</span></span>)
-    <span class="pl-k">else</span>
-        stop(<span class="pl-s1"><span class="pl-pds">"</span>invalid date<span class="pl-pds">"</span></span>)
+    <span class="pl-k">if</span> (<span class="pl-vo">day</span> <span class="pl-k">%in%</span> c(<span class="pl-s1"><span class="pl-pds">"</span>Monday<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>Tuesday<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>Wednesday<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>Thursday<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>Friday<span class="pl-pds">"</span></span>)) 
+        <span class="pl-k">return</span>(<span class="pl-s1"><span class="pl-pds">"</span>weekday<span class="pl-pds">"</span></span>) <span class="pl-k">else</span> <span class="pl-k">if</span> (<span class="pl-vo">day</span> <span class="pl-k">%in%</span> c(<span class="pl-s1"><span class="pl-pds">"</span>Saturday<span class="pl-pds">"</span></span>, <span class="pl-s1"><span class="pl-pds">"</span>Sunday<span class="pl-pds">"</span></span>)) 
+        <span class="pl-k">return</span>(<span class="pl-s1"><span class="pl-pds">"</span>weekend<span class="pl-pds">"</span></span>) <span class="pl-k">else</span> stop(<span class="pl-s1"><span class="pl-pds">"</span>invalid date<span class="pl-pds">"</span></span>)
 }
 <span class="pl-vo">filled.data</span><span class="pl-k">$</span><span class="pl-vo">date</span> <span class="pl-k">&lt;-</span> as.Date(<span class="pl-vo">filled.data</span><span class="pl-k">$</span><span class="pl-vo">date</span>)
-<span class="pl-vo">filled.data</span><span class="pl-k">$</span><span class="pl-vo">day</span> <span class="pl-k">&lt;-</span> sapply(<span class="pl-vo">filled.data</span><span class="pl-k">$</span><span class="pl-vo">date</span>, <span class="pl-v">FUN</span><span class="pl-k">=</span><span class="pl-vo">weekday.or.weekend</span>)</pre></div>
+<span class="pl-vo">filled.data</span><span class="pl-k">$</span><span class="pl-vo">day</span> <span class="pl-k">&lt;-</span> sapply(<span class="pl-vo">filled.data</span><span class="pl-k">$</span><span class="pl-vo">date</span>, <span class="pl-v">FUN</span> <span class="pl-k">=</span> <span class="pl-vo">weekday.or.weekend</span>)</pre></div>
 
 <p>Now, let's make a panel plot containing plots of average number of steps taken
 on weekdays and weekends.</p>
 
-<div class="highlight highlight-r"><pre><span class="pl-vo">averages</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-vo">steps</span> <span class="pl-k">~</span> <span class="pl-vo">interval</span> <span class="pl-k">+</span> <span class="pl-vo">day</span>, <span class="pl-v">data</span><span class="pl-k">=</span><span class="pl-vo">filled.data</span>, <span class="pl-vo">mean</span>)
-ggplot(<span class="pl-vo">averages</span>, aes(<span class="pl-vo">interval</span>, <span class="pl-vo">steps</span>)) <span class="pl-k">+</span> geom_line() <span class="pl-k">+</span> facet_grid(<span class="pl-vo">day</span> <span class="pl-k">~</span> .) <span class="pl-k">+</span>
+<div class="highlight highlight-r"><pre><span class="pl-vo">averages</span> <span class="pl-k">&lt;-</span> aggregate(<span class="pl-vo">steps</span> <span class="pl-k">~</span> <span class="pl-vo">interval</span> <span class="pl-k">+</span> <span class="pl-vo">day</span>, <span class="pl-v">data</span> <span class="pl-k">=</span> <span class="pl-vo">filled.data</span>, <span class="pl-vo">mean</span>)
+ggplot(<span class="pl-vo">averages</span>, aes(<span class="pl-vo">interval</span>, <span class="pl-vo">steps</span>)) <span class="pl-k">+</span> geom_line() <span class="pl-k">+</span> facet_grid(<span class="pl-vo">day</span> <span class="pl-k">~</span> .) <span class="pl-k">+</span> 
     xlab(<span class="pl-s1"><span class="pl-pds">"</span>5-minute interval<span class="pl-pds">"</span></span>) <span class="pl-k">+</span> ylab(<span class="pl-s1"><span class="pl-pds">"</span>Number of steps<span class="pl-pds">"</span></span>)</pre></div>
+
+<p><a href="/sefakilic/coursera-repdata/blob/master/project1/figure/unnamed-chunk-7.png" target="_blank"><img src="/sefakilic/coursera-repdata/raw/master/project1/figure/unnamed-chunk-7.png" alt="plot of chunk unnamed-chunk-7" style="max-width:100%;"></a> </p>
 </article>
   </div>
 
@@ -728,7 +754,7 @@ ggplot(<span class="pl-vo">averages</span>, aes(<span class="pl-vo">interval</sp
     </a>
 
     <ul class="site-footer-links">
-      <li>&copy; 2015 <span title="0.06367s from github-fe117-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2015 <span title="0.05064s from github-fe124-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="/site/terms">Terms</a></li>
         <li><a href="/site/privacy">Privacy</a></li>
         <li><a href="/security">Security</a></li>
